@@ -22,7 +22,7 @@ Button back;
             imageView.setImageResource(image);
             switch(image){
                 case 2131165284:
-                    tw1.setText("Harry Potter and the Philosopher's Stone: \n"+"This is the tale of Harry Potter," +
+                    tw1.setText("Harry Potter4 and the Philosopher's Stone: \n"+"This is the tale of Harry Potter," +
                             " an ordinary 11-year-old boy serving as a sort of slave for his aunt and uncle who learns that he is " +
                             "actually a wizard and has been invited to attend the Hogwarts School for Witchcraft and Wizardry. " +
                             "Harry is snatched away from his mundane existence by Rubeus Hagrid, the grounds keeper for Hogwarts, " +
